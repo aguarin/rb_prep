@@ -1,6 +1,6 @@
 print "What's your first name?"
 first_name=gets.chomp
-
+  
 print "what's your last name?"
 last_name=gets.chomp
 
